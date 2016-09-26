@@ -1,0 +1,25 @@
+{
+  "name": "ngcordova-plugin-googlemaps",
+  "homepage": "https://github.com/iamssurya/ngcordova-plugin-googlemaps",
+  "authors": [
+    "surya <iamssurya@gmail.com>"
+  ],
+  "description": "Angular plugin for cordova-plugin-googlemaps",
+  "main": "dist/ngcordova-plugin-googlemaps.min.js",
+  "keywords": [
+    "ngcordova",
+    "googlemaps",
+    "native-maps",
+    "navigation",
+    "gps",
+    "maps"
+  ],
+  "license": "Yes",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
