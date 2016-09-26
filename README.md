@@ -36,7 +36,7 @@ The SDK-Plugin won't be uninstalled automatically and you will stuck on an old v
 
 ```html
 //Add link to plugin
-<script src="bower_components/ngcordova-plugin-googlemaps/dist/ngcordova-plugin-googlemaps.min.js></script>
+<script src="bower_components/ngcordova-plugin-googlemaps/dist/ngcordova-plugin-googlemaps.min.js"></script>
 
 // Inject in your angular app.
 angular.module('',['gmap']);
