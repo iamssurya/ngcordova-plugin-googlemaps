@@ -1,10 +1,10 @@
 # Angular Cordova GoogleMaps plugin for iOS and Android
 ==========================
-This plugin is based on https://github.com/mapsplugin/cordova-plugin-googlemaps .Please read the [instructions](https://github.com/phonegap-googlemaps-plugin/cordova-plugin-googlemaps/wiki/Installation) to install base cordova plugin. 
+This plugin is based on https://github.com/mapsplugin/cordova-plugin-googlemaps .Please read the [Detailed Instructions](https://github.com/phonegap-googlemaps-plugin/cordova-plugin-googlemaps/wiki/Installation) to install base cordova plugin. 
 
 **This plugin will not work without base plugin**
 
-###Quick install
+###Quick install (Base Plugin)
 
 *npm (current stable 1.3.9)*
 ```bash
